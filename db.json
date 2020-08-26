@@ -1,0 +1,31 @@
+{
+    "users": [
+      {
+        "email": "admin@admin.com",
+        "password": "$2a$10$D0Nj0dSY.ZiUWW0lK8rDk.WWxSP6dW/VNCaF4V09aqX/A/Se6.Bu.",
+        "id": 1
+      }
+    ],
+    "userClients": [
+      {
+        "id": 1,
+        "name": "pedro",
+        "email": "pedro@gmail.com",
+        "phone": 654656565,
+        "city": "picanya",
+        "CP": 46210
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "robot aspiradora",
+        "comment": "aspiradora tipo robot, para sueltos y alfomras",
+        "ref": 1619188898,
+        "model": 101,
+        "price": 500,
+        "stock": 250,
+        "imgURL": "url de la imagen"
+      }
+    ]
+  }
